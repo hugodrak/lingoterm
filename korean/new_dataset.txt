@@ -1,0 +1,1000 @@
+1	것	A thing or  an object	geot	
+2	하다	To do	hada	
+3	있다	To be	itda	
+4	수	way, method, Number	su	
+5	하다	To do	hada	
+6	나	I	na	
+7	없다	Do not exist, absent	eopsda	
+8	않다	To not do	anhda	
+9	사람	Person	saram	
+10	우리	we, our	uri	
+11	그	He, That	geu	
+12	아니다	To not be	anida	
+13	보다	To try	boda	
+14	거	thing	geo	
+15	보다	To see	boda	
+16	같다	To be similar	gatda	
+17	주다	To give, to do for a person	juda	
+18	대하다	Face, confront	daehada	
+19	가다	To go	gada	
+20	년	Year	nyeon	
+21	한	One, a single	han	
+22	말	words,speaking	mal	
+23	일	Work	il	
+24	이	A person, This	i	
+25	말하다	Speak	malhada	
+26	위하다	To do for the sake of	wihada	
+27	그러나	However or  but still	geureona	
+28	오다	To come	oda	
+29	알다	To know	alda	
+30	씨	~ Mr.	ssi	
+31	그렇다	That is right or  yes.	geureoda	
+32	크다	To be big, large	keuda	
+33	일	One day	il	
+34	사회	culture,society	sahoe	
+35	많다	many, much	manhda	
+36	안	~ not ~ + VERB	an	
+37	좋다	To be good	joda	
+38	더	More	deo	
+39	받다	Receive	batda	
+40	그것	That thing	geugeot	
+41	집	House	jip	
+42	나오다	Come out	naoda	
+43	그리고	And or  and then	geurigo	
+44	문제	question,problem	munje	
+45	그런	Such a	geureon	
+46	살다	To live	salda	
+47	저	That	jeo	
+48	못하다	Be impossible	mothada	
+49	생각하다	To think	saenggakada	
+50	모르다	To not know	moreuda	
+51	속	The inside	sok	
+52	만들다	To make	mandeulda	
+53	데	Place, point, instance	de	
+54	앞	In front of, before	ap	
+55	경우	A case or  an instance	gyeongu	
+56	중	The center, the middle	juss	
+57	어떤	What kind of, what sort of	eotteon	
+58	잘	Well	jal	
+59	그녀	She	geunyeo	
+60	먹다	Eat, chow down on	meokda	
+61	자신	one’s own self, one\’s own body	jasin	
+62	문화	culture	munhwa	
+63	원	A unit of south korean  money, KRW	won	
+64	생각	Thought	saenggak	
+65	어떻다	how,what.. do you think of	eotteoda	
+66	명	Person counter	myeoss	
+67	통하다	Run, lead; flow; go through	tonghada	
+68	그러다	and so, and then, well	geureoda	
+69	그러다	and so, and then, well	geureoda	
+70	소리	A sound,noise	sori	
+71	다시	Again	dasi	
+72	다른	Different	dareun	
+73	이런	Such, like this	ireon	
+74	여자	woman,female	yeoja	
+75	개	Unit or  piece	gae	
+76	정도	grade,degree	jeongdo	
+77	다	All, everything	da	
+78	좀	A little	jom	
+79	싶다	want,hope	sipda	
+80	보이다	see,catch sight of	boida	
+81	가지다	To have or  take or  hold	gajida	
+82	함께	Together, with	hamkke	
+83	아이	Child	ai	
+84	지나다	pass,elapse,go on	jinada	
+85	많이	A lot	manhi	
+86	시간	Time	sigan	
+87	너	You	neo	
+88	인간	A person, a human being	ingan	
+89	사실	The truth, a fact	sasil	
+90	나다	To be born	nada	
+91	이렇다	Like this	ireoda	
+92	어머니	Mom	eomeoni	
+93	눈	Eyes	nun	
+94	뭐	Huh? (2) something	mwo	
+95	점	Store	jeom	
+96	의하다	To be due to, owing to	uihada	
+97	시대	An age,period	sidae	
+98	다음	Next	daeum	
+99	이러하다	Be this way, be like follows	ireohada	
+100	누구	Who	nugu	
+101	곳	Place	got	
+102	여러	many,various	yeoreo	
+103	안	Inside	an	
+104	하나	One	hana	
+105	세계	World	segye	
+106	버리다	(following a verb) the verb\’s action is over, perhaps in a sad way	beorida	
+107	위	The upper part, above	wi	
+108	운동	Motion, movement	undoss	
+109	퍼센트	Percent	peosenteu	
+110	학교	School	hakgyo	
+111	자기	Oneself, number one, numerouno, self	jagi	
+112	가장	Most	gajass	
+113	대통령	The president	daetongnyeoss	
+114	가지	One of the kind or  a sort	gaji	
+115	시작하다	To start,begin	sijakada	
+116	바로	Right, correctly	baro	
+117	어느	Some, a certain	eoneu	
+118	그래서	And so accordingly	geuraeseo	
+119	무엇	That thing,whatever	mueot	
+120	정부	Government	jeongbu	
+121	모든	Every one	modeun	
+122	번	Number, how many times	beon	
+123	그거	That thing	geugeo	
+124	돈	Money	don	
+125	국가	A state or  a nation	gukga	
+126	그런데	But or  however	geureonde	
+127	날	Day	nal	
+128	여기	A hobby	yeogi	
+129	모두	Everybody	modu	
+130	여성	Female	yeoseoss	
+131	친구	A friend	chingu	
+132	마음	Heart	maeum	
+133	후	After	hu	
+134	놓다	Put, place	noda	
+135	관계	Connection or  relation	gwangye	
+136	아버지	Father	abeoji	
+137	남자	Boy	namja	
+138	어디	Where?	eodi	
+139	몸	body,physique	mom	
+140	얼굴	Face	eolgul	
+141	왜	Why?	wae	
+142	나타나다	Come out, appear	natanada	
+143	지역	An area, region	jiyeok	
+144	다르다	Be different	dareuda	
+145	모습	shape,body	moseup	
+146	물	Water	mul	
+147	만나다	Meet	mannada	
+148	내다	produce something	naeda	
+149	보이다	show,let see	boida	
+150	쓰다	To write	sseuda	
+151	이것	This thing	igeot	
+152	없이	Without	eopsi	
+153	이번	This time	ibeon	
+154	길	Road	gil	
+155	생활	lifestyle,livelihood	saenghwal	
+156	쓰다	Take (medicine)	sseuda	
+157	뿐	only,alone,merely	ppun	
+158	사이	space between 2 points; the relationship between 2 people	sai	
+159	방법	Way, method	bangbeop	
+160	새롭다	To be new,novel	saeropda	
+161	내다	to see through, to make it through sth	naeda	
+162	앉다	To sit down	anjda	
+163	처음	First	cheoeum	
+164	손	The hand	son	
+165	몇	A few	myeot	
+166	그때	Then or  at that time	geuttae	
+167	과정	Process or  course	gwajeoss	
+168	삶	Life	salm	
+169	갖다	To hold	gatda	
+170	찾다	seek,look for	chatda	
+171	특히	Especially	teuki	
+172	시	Time	si	
+173	이상	More than, above	isass	
+174	지금	Now	jigeum	
+175	나가다	To go out	nagada	
+176	이야기	Conversation, talk	iyagi	
+177	교육	Education	gyoyuk	
+178	사다	To buy, purchase	sada	
+179	경제	Economy	gyeongje	
+180	아직	Still	ajik	
+181	잡다	seize,catch	japda	
+182	같이	Together	gati	
+183	선생님	Teacher	seonsaengnim	
+184	예술	Art, an art	yesul	
+185	서다	To stand	seoda	
+186	못	Cannot	mot	
+187	역사	History	yeoksa	
+188	읽다	To read	ilgda	
+189	결과	Result	gyeolgwa	
+190	내용	Contents	naeyoss	
+191	물론	Of course	mullon	
+192	책	A book	chaek	
+193	일어나다	To rise, get up	ireonada	
+194	당신	Formal you	dangsin	
+195	시장	market,fair	sijass	
+196	넣다	Put in, set in	neoda	
+197	중요하다	To be important,weighty	jungyohada	
+198	무슨	What, what kind of	museun	
+199	느끼다	To feel	neukkida	
+200	어렵다	To be hard, difficult	eoryeopda	
+201	힘	Power	him	
+202	너무	Too much	neomu	
+203	나라	A country	nara	
+204	부르다	To call	bureuda	
+205	의미	A meaning, a sense	uimi	
+206	자리	seat,spot	jari	
+207	밝히다	To light up	balghida	
+208	죽다	die,pass away	jukda	
+209	이미	Already	imi	
+210	쪽	Way, direction	jjok	
+211	정치	Politics	jeongchi	
+212	국민	The people or  a nationality	gungmin	
+213	생명	Life	saengmyeoss	
+214	얘기	Story	yaegi	
+215	학생	Student	haksaess	
+216	연구	Research	yeongu	
+217	엄마	Mamma	eomma	
+218	이름	Name	ireum	
+219	하나	One	hana	
+220	내리다	Descend	naerida	
+221	사건	An event,incident	sageon	
+222	및	As well as	mit	
+223	쉽다	To be easy	swipda	
+224	짓다	To make, build ; to form a line (a group)	jitda	
+225	이유	Reason	iyu	
+226	필요하다	To need	piryohada	
+227	글	words, a verse	geul	
+228	생기다	arise,occur,happen	saenggida	
+229	사용하다	To use	sayonghada	
+230	남편	Husband	nampyeon	
+231	밖	The outside	bak	
+232	세상	The world,society	sesass	
+233	작다	Small	jakda	
+234	타다	Ride (bus)	tada	
+235	대학	University	daehak	
+236	작품	A work of art	jakpum	
+237	상황	State of things	sanghwass	
+238	가운데	In the middle	gaunde	
+239	보내다	Send	bonaeda	
+240	즉	namely,that is to say	jeuk	
+241	상태	condition,state	sangtae	
+242	이후	After that	ihu	
+243	당시	At that time	dangsi	
+244	문학	Literature	munhak	
+245	더욱	More and more	deouk	
+246	아주	Extremely	aju	
+247	지방	A locality, district	jibass	
+248	밤	Night	bam	
+249	높다	High	nopda	
+250	최근	Recently	choegeun	
+251	채	As it is, no change	chae	
+252	현실	Actuality, reality	hyeonsil	
+253	환경	Environment	hwangyeoss	
+254	컴퓨터	Computer	keompyuteo	
+255	먼저	First	meonjeo	
+256	다니다	Go to and from a aplace	danida	
+257	얼마나	How many, how much	eolmana	
+258	자체	one’s own body	jache	
+259	열다	Open	yeolda	
+260	머리	Head	meori	
+261	묻다	to Ask	mutda	
+262	남다	Remain, be left over	namda	
+263	부분	part,portion	bubun	
+264	기업	An enterprise or business	gieop	
+265	변화	Change, transformation	byeonhwa	
+266	아들	son,baby	adeul	
+267	아	Oh dear	a	
+268	선거	An election	seongeo	
+269	관하다	Refer to or  be about	gwanhada	
+270	분	Minutes	bun	
+271	그냥	Just because or  in that condition	geunyass	
+272	나누다	To divide	nanuda	
+273	이용하다	To use, make use of	iyonghada	
+274	거의	Almost or  nearly	geoui	
+275	곧	Soon	got	
+276	중심	The nucleus, the focus, the heart	jungsim	
+277	활동	Activity	hwaldoss	
+278	오늘	Today	oneul	
+279	서로	mutually,one another	seoro	
+280	관심	Concern or  interest	gwansim	
+281	역시	As expected, likewise	yeoksi	
+282	이거	This thing	igeo	
+283	애	A baby, or a slightly derogative word for person	ae	
+284	광고	Advertisement	gwanggo	
+285	나다	To come out, grow, spring up	nada	
+286	방	A room	bass	
+287	정신	mind,spirit	jeongsin	
+288	이르다	To reach, arrive, get at	ireuda	
+289	이루다	Accomplish, complete	iruda	
+290	아침	Morning	achim	
+291	웃다	To laugh, smile	utda	
+292	현상	The present situation, state	hyeonsass	
+293	기술	Art or  technique or  ability	gisul	
+294	전체	The whole, the entire section	jeonche	
+295	그래	So or  yes or  that’s right	geurae	
+296	얻다	Get, obtain	eotda	
+297	아름답다	To be beautiful	areumdapda	
+298	끝	The end	kkeut	
+299	민족	race,nation,people	minjok	
+300	간	The interval between	gan	
+301	조사	investigation,inquiry	josa	
+302	듯	To be like something	deut	
+303	입	Mouth	ip	
+304	뭐	Huh? (2) something	mwo	
+305	그대로	Like that	geudaero	
+306	영화	A movie	yeonghwa	
+307	필요	Need, requirement,necessity	piryo	
+308	줄	way,method	jul	
+309	하늘	The sky	haneul	
+310	년대	Year	nyeondae	
+311	과학	Science	gwahak	
+312	자연	Nature	jayeon	
+313	정말	Really	jeongmal	
+314	구조	Construction or  structure	gujo	
+315	결국	After all or  in the end	gyeolguk	
+316	밥	Rice, a meal	bap	
+317	입다	To wear	ipda	
+318	오히려	Rather,preferably	ohiryeo	
+319	프로그램	Program	peurogeuraem	
+320	네	Yes	ne	
+321	이루어지다	Get accomplished, achieved	irueojida	
+322	남	Others, other people	nam	
+323	하루	A day	haru	
+324	그림	A picture	geurim	
+325	적	The time,the occasion,when	jeok	
+326	터	one’s status, one’s lot	teo	
+327	마시다	To drink	masida	
+328	치다	to attack, assault	chida	
+329	혼자	Alone	honja	
+330	나가다	To advance, proceed, go forward	nagada	
+331	이제	Now	ije	
+332	교수	Teaching or  instruction	gyosu	
+333	술	Alcohol	sul	
+334	사랑	Love	sarass	
+335	전화	Telephone	jeonhwa	
+336	끝나다	To draw to a close or  to end	kkeunnada	
+337	맞다	Be right, correct; to match, be fitting for	matda	
+338	아빠	Dad	appa	
+339	걸리다	To be hung up or  suspended	geollida	
+340	지키다	Protect, maintain	jikida	
+341	한번	Once	hanbeon	
+342	커피	Coffee	keopi	
+343	가슴	Chest	gaseum	
+344	길다	To be long	gilda	
+345	바라보다	Look at, watch ; to look forward to, hope for	baraboda	
+346	알아보다	To investigate, examine, search	araboda	
+347	맛	Flavor	mat	
+348	대부분	Most	daebubun	
+349	산업	Industry	saneop	
+350	매우	Very	maeu	
+351	오르다	Go up, climb, ascend	oreuda	
+352	음식	Food	eumsik	
+353	표정	Facial expression, look	pyojeoss	
+354	꼭	For sure	kkok	
+355	일부	A part, a portion	ilbu	
+356	요즘	Recently, nowadays	yojeum	
+357	계획	A plan or  a project	gyehoek	
+358	느낌	Touch, feel	neukkim	
+359	얼마	How many, how much	eolma	
+360	고개	The nape of the neck	gogae	
+361	성격	Personality ; character, nature	seonggyeok	
+362	계속	Continuously	gyesok	
+363	세기	Century	segi	
+364	세우다	Stand up, erect	seuda	
+365	아내	Wife	anae	
+366	가족	Family	gajok	
+367	현재	The present time, now, at present	hyeonjae	
+368	세	Three	se	
+369	발전	Development	baljeon	
+370	차	A vehicle, train/auto car	cha	
+371	놀다	Play, amuse oneself	nolda	
+372	향하다	To face, look out on	hyanghada	
+373	관련	Relation or  connection or  reference	gwallyeon	
+374	형태	Form, shape	hyeongtae	
+375	각	Each or  every	gak	
+376	도시	City	dosi	
+377	작업	Work	jageop	
+378	분위기	atmosphere,surroundings	bunwigi	
+379	그러하다	To be so or  right	geureohada	
+380	나이	Age	nai	
+381	우선	First of all, before everything	useon	
+382	믿다	Believe	mitda	
+383	바꾸다	change,exchange	bakkuda	
+384	낳다	To give birth	nada	
+385	바	A thing, what	ba	
+386	정보	information,intelligence	jeongbo	
+387	열리다	Open, be opened, be unlocked	yeollida	
+388	좋아하다	To like, be fond of	joahada	
+389	그리다	Picture or  draw a picture	geurida	
+390	만큼	Of that amount	mankeum	
+391	배우다	To learn	baeuda	
+392	시	Poetry, lines of verse	si	
+393	역할	A part, a role	yeokal	
+394	옆	Next to	yeop	
+395	행동	Action, behavior	haengdoss	
+396	어	Oh, well, why	eo	
+397	국내	Inside the country	gungnae	
+398	비하다	Compare to	bihada	
+399	기관	An engine or  a machine	gigwan	
+400	입장	A position, situation	ipjass	
+401	만하다	Be of the extent of	manhada	
+402	예	Example	ye	
+403	아래	The bottom, the lower part	arae	
+404	방식	A form, method, process	bangsik	
+405	영향	Influence, consequences	yeonghyass	
+406	그럼	Certainly or  of course.	geureom	
+407	나서다	Come out, come forth	naseoda	
+408	흐르다	Flow, stream	heureuda	
+409	저	Uh, well,  …	jeo	
+410	깊다	Deep	gipda	
+411	배	A boat (boating)	bae	
+412	내	Inside	nae	
+413	모양	A shape, form	moyass	
+414	산	A mountain	san	
+415	새	New	sae	
+416	하지만	But, nevertheless	hajiman	
+417	조건	condition,stipulation	jogeon	
+418	문	Door	mun	
+419	꽃	Flower	kkot	
+420	단계	A step, phase	dangye	
+421	올리다	Raise, lift up	ollida	
+422	그동안	During that time	geudongan	
+423	교사	Instructor	gyosa	
+424	갑자기	Suddenly	gapjagi	
+425	넘다	Cross or go across	neomda	
+426	지니다	Carry with, hold, possess	jinida	
+427	바람	Wind	baram	
+428	잘하다	To do well	jalhada	
+429	마을	Town	maeul	
+430	어리다	To be very young, juvenile	eorida	
+431	대표	Representative	daepyo	
+432	가능성	Possibility	ganeungseoss	
+433	방향	Direction	banghyass	
+434	대회	A great meeting	daehoe	
+435	목소리	Voice	moksori	
+436	노래	Song	norae	
+437	바다	Sea	bada	
+438	힘들다	To be hard, difficult	himdeulda	
+439	공부	Study	gongbu	
+440	움직이다	To move, stir	umjigida	
+441	의원	A member	uiwon	
+442	노력	Effort	noryeok	
+443	전혀	entirely,utterly,completely	jeonhyeo	
+444	언니	Older sister	eonni	
+445	단체	A corps, a group	danche	
+446	분	One part	bun	
+447	알려지다	To become known	allyeojida	
+448	가능하다	To be possible	ganeunghada	
+449	능력	Ability, capability, how much and how well	neungnyeok	
+450	주장하다	To assert,maintain	jujanghada	
+451	자식	one’s children	jasik	
+452	불	Fire	bul	
+453	주민	inhabitants,dwellers	jumin	
+454	모으다	gather,get together	moeuda	
+455	자료	materials,data	jaryo	
+456	존재	Existence	jonjae	
+457	학년	A school year	hangnyeon	
+458	신문	A newspaper	sinmun	
+459	가지다	Entertain or  hold or  have	gajida	
+460	이해하다	To understand	ihaehada	
+461	제품	Manufactured goods	jepum	
+462	분야	Field	bunya	
+463	선생	Teacher	seonsaess	
+464	사업	Business	saeop	
+465	행위	An act, deed, behavior	haengwi	
+466	수준	Level	sujun	
+467	지난해	Last year	jinanhae	
+468	표현	Verbal expression, representation, manifestation	pyohyeon	
+469	기분	Mood	gibun	
+470	대	Era, period	dae	
+471	젊다	To be young,youthful	jeolmda	
+472	옷	Clothes	ot	
+473	기능	Function or  functionality	gineuss	
+474	순간	A moment,a second	sungan	
+475	전쟁	War	jeonjaess	
+476	전	Before	jeon	
+477	꿈	A Dream	kkum	
+478	할머니	Grandmother	halmeoni	
+479	회의	A meeting, a conference	hoeui	
+480	방송	Broadcast	bangsoss	
+481	이야기하다	To talk	iyagihada	
+482	나무	Tree	namu	
+483	자다	To sleep	jada	
+484	연극	drama,a play	yeongeuk	
+485	마찬가지	The same	machangaji	
+486	걷다	To walk	geotda	
+487	노동	Labor, work	nodoss	
+488	이때	At this time, moment	ittae	
+489	과거	The past	gwageo	
+490	가치	Price	gachi	
+491	시간	a Length of time (한시간 동안)	sigan	
+492	집단	A group, a collective body	jipdan	
+493	현대	The present age, times	hyeondae	
+494	살펴보다	Watch closely	salpyeoboda	
+495	장관	A government cabinet minister	janggwan	
+496	차이	difference,disparity	chai	
+497	풀다	Untie, loosen ; to melt into	pulda	
+498	시절	season,time,occasion	sijeol	
+499	물건	A thing	mulgeon	
+500	직접	Directly	jikjeop	
+501	개인	Private or  individual	gaein	
+502	근데	But or  however	geunde	
+503	발	Foot	bal	
+504	작가	writer,author	jakga	
+505	효과	Effect, effectiveness	hyogwa	
+506	불교	Buddhism	bulgyo	
+507	끌다	Pull	kkeulda	
+508	대로	Like, according to	daero	
+509	빨리	Quickly	ppalli	
+510	시작되다	To begin,start	sijakdoeda	
+511	말다	Cease	malda	
+512	설명하다	To explain	seolmyeonghada	
+513	우주	The universe	uju	
+514	시기	An opportunity,chance	sigi	
+515	마치	As though, as if	machi	
+516	살	Years old	sal	
+517	생산	1) production 2)birth	saengsan	
+518	바라다	Wish, hope	barada	
+519	강하다	To be strong or  powerful	ganghada	
+520	경험	Experience or  undergo or  suffer	gyeongheom	
+521	음악	Music	eumak	
+522	최고	The best	choego	
+523	나타내다	Show, display	natanaeda	
+524	아프다	To hurt	apeuda	
+525	적다	To be small, few in number	jeokda	
+526	비	Rain	bi	
+527	고향	Hometown	gohyass	
+528	놀라다	Be surprised	nollada	
+529	다양하다	To be various, diverse	dayanghada	
+530	울다	To cry, weep	ulda	
+531	농민	A farmer	nongmin	
+532	은행	A bank	eunhaess	
+533	지내다	To pass, spend time	jinaeda	
+534	결혼	Marriage	gyeolhon	
+535	법	A law, the law	beop	
+536	소설	A novel, fiction story	soseol	
+537	예	Yes, certainly, right	ye	
+538	오후	The afternoon	ohu	
+539	질서	Order, system	jilseo	
+540	담다	Put in a bottle	damda	
+541	모이다	Meet, assemble	moida	
+542	시민	Residents of a city	simin	
+543	회장	Chariman, the president	hoejass	
+544	빠르다	Be fast, quick	ppareuda	
+545	스스로	On its own, of its own free will	seuseuro	
+546	아기	baby,infant	agi	
+547	아저씨	Sir, calling an unknown male	ajeossi	
+548	옛날	Ancient times, antiquity	yennal	
+549	이날	Today, this day	inal	
+550	제대로	As properly is suitable	jedaero	
+551	달	The moon	dal	
+552	던지다	To throw	deonjida	
+553	참	really,truly	cham	
+554	공간	Space or  room	gonggan	
+555	이곳	This place, here	igot	
+556	마지막	Last, final	majimak	
+557	벌이다	(1) to plan to start a job/project (2) to play a table game	beorida	
+558	병원	Hospital	byeongwon	
+559	자세	Position, posture	jase	
+560	강조하다	Place empasis upon	gangjohada	
+561	경찰	The police	gyeongchal	
+562	맡다	Take charge of	matda	
+563	저녁	Evening	jeonyeok	
+564	한편	One side, one way	hanpyeon	
+565	그러면	If so or  if that is the case	geureomyeon	
+566	기자	A journalist	gija	
+567	넓다	Broad	neolbda	
+568	시험	A test	siheom	
+569	잠	Sleep	jam	
+570	주로	principally,mainly	juro	
+571	훨씬	By far, very much so	hwolssin	
+572	면	Side	myeon	
+573	통일	Unification	tongil	
+574	건강	Health	geongass	
+575	가깝다	Close	gakkapda	
+576	건물	Building	geonmul	
+577	시설	establishment,institution	siseol	
+578	외국	A foreign country	oeguk	
+579	밑	The bottom	mit	
+580	어른	A man, an adult	eoreun	
+581	주변	A circumference	jubyeon	
+582	대신	Instead of	daesin	
+583	원인	A cause,a factor	wonin	
+584	팔다	To sell	palda	
+585	차례	(1) order,precedence  (2) one time, one round	charye	
+586	군	An army	gun	
+587	열심히	Enthusiastically,with zeal	yeolsimhi	
+588	일하다	To work, labor	ilhada	
+589	재산	property,fortune, assets, possessions	jaesan	
+590	팀	Team	tim	
+591	부모	Parents	bumo	
+592	약간	Somewhat	yakgan	
+593	언어	language,speech	eoneo	
+594	요구하다	To demand,claim,request	yoguhada	
+595	올라가다	To go up, ascend	ollagada	
+596	첫	First	cheot	
+597	감독	The director	gamdok	
+598	그날	That day or  that same day	geunal	
+599	사실	Actually, really	sasil	
+600	자주	Always, constantly	jaju	
+601	당하다	Have, encounter	danghada	
+602	삼다	Make a thing of	samda	
+603	약	About, approximately	yak	
+604	기간	A period or  a time or	gigan	
+605	담배	Tobacco	dambae	
+606	일으키다	Riase, get up; start, commence	ireukida	
+607	일단	Temporarily	ildan	
+608	할아버지	Grandfather	harabeoji	
+609	조직	Organization (composition, structure)	jojik	
+610	태어나다	To be born, see the light of day	taeeonada	
+611	공장	Construction site	gongjass	
+612	벌써	Already	beolsseo	
+613	즐기다	Enjoy oneself,take pleasure,delight	jeulgida	
+614	지	since,from	ji	
+615	환자	A patient	hwanja	
+616	변하다	Change	byeonhada	
+617	사고	An accident	sago	
+618	그래도	All the same	geuraedo	
+619	아무리	However much	amuri	
+620	맞추다	Adjust, adapt	matchuda	
+621	쌀	Uncooked rice	ssal	
+622	일반	universal,common,usual	ilban	
+623	재미있다	interesting,fun	jaemiitda	
+624	가르치다	To teach	gareuchida	
+625	대화	Conversation	daehwa	
+626	막다	Stop, obstruct	makda	
+627	올해	This year	olhae	
+628	형	An elder brother	hyeoss	
+629	달리	Differently	dalli	
+630	버리다	Throw away	beorida	
+631	붙이다	affix,put on	butida	
+632	인물	A man, a person	inmul	
+633	늘	Always	neul	
+634	모두	everything	modu	
+635	전국	The whole country	jeonguk	
+636	마치다	Finish, complete	machida	
+637	전	all,every	jeon	
+638	다만	Only, merely	daman	
+639	도움	Help	doum	
+640	가정	Famly	gajeoss	
+641	걸다	Hang up or  suspend	geolda	
+642	빠지다	To fall into	ppajida	
+643	멀다	To be far	meolda	
+644	버스	Bus	beoseu	
+645	오늘날	These days, nowadays	oneull, nnal	
+646	잠시	For a little while	jamsi	
+647	농업	Agriculture	nongeop	
+648	대다	Put, place up to	daeda	
+649	식	form,style	sik	
+650	의견	An opinion,a suggestion	uigyeon	
+651	무대	Stage	mudae	
+652	사진	Picture	sajin	
+653	주장	assertion,insistance	jujass	
+654	표현하다	To express, make known by saying	pyohyeonhada	
+655	인하다	To be due to, caused by	inhada	
+656	이상하다	To be strange,queer	isanghada	
+657	제일	The first	jeil	
+658	붙다	Stick, adhere to	butda	
+659	아마	Probably	ama	
+660	얘기하다	To tell a story	yaegihada	
+661	잇다	Join, connect	itda	
+662	조금	A little	jogeum	
+663	경기	Race or  match or  contest	gyeonggi	
+664	목적	goal,purpose	mokjeok	
+665	태도	attitude,comportment	taedo	
+666	남성	Male	namseoss	
+667	주위	The circumference,the girth	juwi	
+668	대책	Countermeasure	daechaek	
+669	그만	That much or  a little amount	geuman	
+670	발생하다	Originate, come from	balsaenghada	
+671	다리	Leg	dari	
+672	아무	anybody,everybody	amu	
+673	어쩌다	By chance, accident	eojjeoda	
+674	재료	stuff,material	jaeryo	
+675	각각	Each and every	gakgak	
+676	결코	Never or  by no means	gyeolko	
+677	옮기다	Move, transfer (2)(sickness) communicate, transfer to	olmgida	
+678	항상	Always	hangsass	
+679	해	A year	hae	
+680	잃다	To lose, to miss, to be deprived	ilhda	
+681	자유	Freedom	jayu	
+682	책임	Responsibility	chaegim	
+683	바뀌다	Be changed	bakkwida	
+684	비슷하다	To resemble	biseuthada	
+685	심하다	To be extreme,intense	simhada	
+686	경쟁	Competition or  rivalry	gyeongjaess	
+687	사랑하다	To love	saranghada	
+688	아니	No!	ani	
+689	여름	summer,summertime	yeoreum	
+690	자라다	To grow up	jarada	
+691	회	A time, an inning, a round in a game	hoe	
+692	구체적	Concretely	guchejeok	
+693	기회	An opportunity	gihoe	
+694	실시하다	To enforce,put into effect	silsihada	
+695	지구	The earth	jigu	
+696	번째	How many times	beonjjae	
+697	소비자	A consumer	sobija	
+698	싫다	To not like, to hate	silhda	
+699	규모	Scale or  scope or  structure	gyumo	
+700	기준	A standard or basis	gijun	
+701	말	End	mal	
+702	반드시	Most certainly	bandeusi	
+703	셈	An intention,design,purpose	sem	
+704	갖추다	Make or  get ready or  prepare	gatchuda	
+705	그러니까	And so it is that	geureonikka	
+706	받아들이다	Accept	badadeurida	
+707	값	Price	gaps	
+708	현장	on site, on location, at the site in question	hyeonjass	
+709	건설	Construction	geonseol	
+710	꺼내다	To get out or  draw out	kkeonaeda	
+711	노동자	Laborer, worker	nodongja	
+712	언제나	everytime,always	eonjena	
+713	완전히	completely,perfectly	wanjeonhi	
+714	자동차	Car	jadongcha	
+715	전하다	To transmit,convey	jeonhada	
+716	존재하다	To exist	jonjaehada	
+717	개월	Each and every month	gaewol	
+718	맞다	receive,welcome (note, usually this is 맞히다)	matda	
+719	별로	Especially, particularly	byeollo	
+720	어린이	A youngster, a child	eorini	
+721	정하다	To set,determine	jeonghada	
+722	한마디	One word	hanmadi	
+723	유지하다	To preserve, maintain	yujihada	
+724	이데올로기	Ideology	ideollogi	
+725	공부하다	To study	gongbuhada	
+726	대중	The masses	daejuss	
+727	늘어나다	Grow longer	neureonada	
+728	닦다	Wipe clean, polish	dakda	
+729	만	As many as, full, complete	man	
+730	말씀	Speech	malsseum	
+731	괜찮다	To be okay	gwaenchanhda	
+732	눈물	A tear	nunmul	
+733	각종	All sorts or  varieties	gakjoss	
+734	빛	Light	bit	
+735	아니	Not	ani	
+736	피하다	avoid,keep away	pihada	
+737	거치다	Pass or  go through	geochida	
+738	나아가다	Advance, go forward	naagada	
+739	야	(Word to get somebody’s attention) Hey!! (2) impolite speech for 이다, to be	ya	
+740	지식	Knowledge, information	jisik	
+741	여전히	As it used to be, as before ; still, persistently, even still	yeojeonhi	
+742	주인	The head of a family,the owner	juin	
+743	발견하다	To discover	balgyeonhada	
+744	선	A line, a route	seon	
+745	인류	The human race	illyu	
+746	특징	A special feature, a distinguishing feature	teukjiss	
+747	선수	An athlete	seonsu	
+748	형식	A form, formality, mold	hyeongsik	
+749	마련하다	To plan, arrange	maryeonhada	
+750	반	Half	ban	
+751	발표하다	To announce	balpyohada	
+752	주제	Subject, theme, topic	juje	
+753	걸치다	1) put a thing over or across 2) to range from A to B	geolchida	
+754	겪다	Experience or  undergo or  suffer	gyeokda	
+755	관점	A point of view or a standpoint/outlook	gwanjeom	
+756	귀	Ear	gwi	
+757	기본	A foundation	gibon	
+758	미터	Meter	miteo	
+759	사라지다	To disappear	sarajida	
+760	어떠하다	To be how	eotteohada	
+761	감정	Feelings	gamjeoss	
+762	기억	A memory	gieok	
+763	놈	A fellow	nom	
+764	인기	Popularity	ingi	
+765	배	Abdomen	bae	
+766	아파트	Apartment	apateu	
+767	가끔	Sometimes	gakkeum	
+768	구성	Organization or  constitution , the framework of something	guseoss	
+769	술	Spoonful	sul	
+770	실제로	In reality	siljero	
+771	짧다	Short, brief	jjalbda	
+772	고맙다	To thank	gomapda	
+773	관리	Management or  administration	gwalli	
+774	그곳	That place	geugot	
+775	보다	More than, greater than ….	boda	
+776	비롯하다	begin,start	birothada	
+777	과연	Just as one thought	gwayeon	
+778	달리다	run, make do fast	dallida	
+779	바쁘다	Busy	bappeuda	
+780	이전	Former days/times	ijeon	
+781	인정하다	To acknowledge,authorize	injeonghada	
+782	자	A person	ja	
+783	중앙	The middle and the heart	jungass	
+784	나쁘다	To be bad	nappeuda	
+785	불구하다	Deformity, malformation	bulguhada	
+786	시키다	To make	sikida	
+787	게임	Game	geim	
+788	국제	International	gukje	
+789	그룹	Group	geurup	
+790	인생	Life	insaess	
+791	전통	tradition,convention	jeontoss	
+792	기르다	Educate or  train or  cultivate	gireuda	
+793	잔	A cup, wine glass	jan	
+794	조사하다	To examine,investigate	josahada	
+795	커다랗다	To be very big/large	keodarada	
+796	있다	To be	itda	
+797	시인	A poet	siin	
+798	언제	when,at what time	eonje	
+799	외	Except, save for	oe	
+800	평가	Evaluation, appraisal	pyeongga	
+801	내려오다	Come down	naeryeooda	
+802	위치	A position, a location	wichi	
+803	줄이다	reduce,decrease	jurida	
+804	가격	Price	gagyeok	
+805	달라지다	To change, vary	dallajida	
+806	비다	To be empty, vacant	bida	
+807	삼국	Three countries	samguk	
+808	손님	Customer	sonnim	
+809	원하다	To want	wonhada	
+810	통신	communications,correspondance	tongsin	
+811	확인하다	To confirm,corroborate	hwaginhada	
+812	모임	A group, a party	moim	
+813	수	The number of sth	su	
+814	웃음	Laughter, a smile	useum	
+815	기계	An instrument or  a machine	gigye	
+816	모양	signs,indications	moyass	
+817	물질	matter,material	muljil	
+818	아나운서	Announcer	anaunseo	
+819	뉴스	News	nyuseu	
+820	살아가다	Lead a life, get along	saragada	
+821	펴다	Spread out, unfold	pyeoda	
+822	배	Times, x-fold	bae	
+823	수업	school,teaching	sueop	
+824	겨울	Winter	gyeoul	
+825	종교	religion,a faith	jonggyo	
+826	층	floor,grade,class	cheuss	
+827	자연스럽다	To be natural	jayeonseureopda	
+828	장	One piece of sth flat	jass	
+829	식사	A meal	siksa	
+830	안다	To hold, embrace	anda	
+831	이해	Understanding	ihae	
+832	잊다	To forget	itda	
+833	제시하다	To present	jesihada	
+834	반	Group, company, party	ban	
+835	불과하다	Nothing more than	bulgwahada	
+836	혹은	If that’s not the case	hogeun	
+837	엄청나다	To be absurd,wild,terribly large	eomcheongnada	
+838	편	Direction, way (the wind is blowing that ~)	pyeon	
+839	텔레비전	Television	tellebijeon	
+840	파악하다	Grasp, seize, understand	paakada	
+841	편	Compilation, editing	pyeon	
+842	실천	Practice	silcheon	
+843	노력하다	To try hard, strive	noryeokada	
+844	보호	protection,shelter	boho	
+845	씻다	To wash,cleanse	ssitda	
+846	늦다	To be late (time)	neutda	
+847	이웃	The neighborhood	iut	
+848	편지	Letter	pyeonji	
+849	공동	Association or  union or  collaboration	gongdoss	
+850	까닭	Reason	kkadalg	
+851	방안	A plan, scheme	bangan	
+852	센티미터	Centimeter	sentimiteo	
+853	팔	An arm	pal	
+854	분명하다	To be clear/obvious	bunmyeonghada	
+855	분석	Analysis	bunseok	
+856	소녀	A young girl	sonyeo	
+857	지나가다	To pass, elapse	jinagada	
+858	차	order,sequence,degree	cha	
+859	상품	Product	sangpum	
+860	설명	Explanation	seolmyeoss	
+861	훌륭하다	To be excellent	hullyunghada	
+862	관계자	The interested or affected parties	gwangyeja	
+863	새로	newly,anew	saero	
+864	세	Age in years	se	
+865	이어지다	Get joined, be connected	ieojida	
+866	티브이	TV	tibeui	
+867	봄	Spring	bom	
+868	종류	kind,sort,species	jongnyu	
+869	낮다	Be low	natda	
+870	어깨	Shoulder	eokkae	
+871	부부	Man and wife	bubu	
+872	오래	Long, for a long time	orae	
+873	요구	A demand, claim, request	yogu	
+874	키우다	To raise, bring up, rear	kiuda	
+875	눕다	Lie down	nupda	
+876	발전하다	To develop, grow	baljeonhada	
+877	여행	Trip	yeohaess	
+878	죽음	Death	jugeum	
+879	고통	Suffering or  agony	gotoss	
+880	공	Ball	goss	
+881	어울리다	To be becoming, suiting	eoullida	
+882	오월	May	owol	
+883	쉬다	to relax, take a break	swida	
+884	알리다	To inform, tell a person	allida	
+885	차다	To be full, to be filled with (PASSIVE)	chada	
+886	과	A lesson or  a section or  a department	gwa	
+887	멀리	Far away	meolli	
+888	빼다	Pull out, extract	ppaeda	
+889	예정	A program, schedule	yejeoss	
+890	오빠	Older brother	oppa	
+891	즐겁다	Be pleasant,agreeable	jeulgeopda	
+892	한계	Boundary, limits	hangye	
+893	흔히	Generally, commonly ; often	heunhi	
+894	바탕	Natural disposition ; to go all out in a fight, 아주 크게 싸우다 ; the background	batass	
+895	사월	April	sawol	
+896	싸우다	To fight	ssauda	
+897	예쁘다	Pretty, lovely	yeppeuda	
+898	갈등	Conflict or  troubles	galdeuss	
+899	느껴지다	Feel	neukkyeojida	
+900	의지	will,volition	uiji	
+901	전문	A specialty	jeonmun	
+902	정확하다	To be exact	jeonghwakada	
+903	초기	The early days, the initial period	chogi	
+904	나중	The last, the latter part	najuss	
+905	맛있다	Delicious	masitda	
+906	며칠	How many days	myeochil	
+907	쓴 맛	see 6000	sseun mat	
+908	찾아오다	To go meet somebody, to go get sth	chajaoda	
+909	미	beauty,grace	mi	
+910	사용	use,emply	sayoss	
+911	시선	one’s line of vision	siseon	
+912	아무런	No sort of	amureon	
+913	언론	A speech, discussion	eollon	
+914	투자	Investment	tuja	
+915	지원	helping, supporting, aiding	jiwon	
+916	결정하다	To decide	gyeoljeonghada	
+917	경영	Management or  administration	gyeongyeoss	
+918	목표	goal,object	mokpyo	
+919	성장	Growth	seongjass	
+920	숲	Forest	sup	
+921	없어지다	To lose, get lost	eopseojida	
+922	작년	Last year	jangnyeon	
+923	내려가다	To go down	naeryeogada	
+924	미치다	To reach	michida	
+925	새벽	dawn,daybreak	saebyeok	
+926	쓰레기	Garbage	sseuregi	
+927	얼른	Fast, quickly, rapidly	eolleun	
+928	임금	Wages, pay	imgeum	
+929	피해	Damage	pihae	
+930	한	A limit	han	
+931	무섭다	fearful,dreadful	museopda	
+932	직장	one’s work place	jikjass	
+933	참다	Bear, endure	chamda	
+934	크기	Size, dimensions	keugi	
+935	고기	Meat	gogi	
+936	남기다	To leave behind	namgida	
+937	서양	The Western countries	seoyass	
+938	주요	The major, the chief thing	juyo	
+939	가져오다	To bring or  get	gajyeooda	
+940	냄새	Smell	naemsae	
+941	부드럽다	soft,tender	budeureopda	
+942	여기다	Think, consider as	yeogida	
+943	이	this,this thing	i	
+944	공연	A public performance	gongyeon	
+945	남녀	Man and woman	namnyeo	
+946	내놓다	Put out, take out	naenoda	
+947	만들어지다	Make, create	mandeureojida	
+948	속도	Speed	sokdo	
+949	심각하다	seriousness,gravity	simgakada	
+950	준비	Preparation	junbi	
+951	계속되다	To continue	gyesokdoeda	
+952	구월	September	guwol	
+953	맑다	clean,pure	malgda	
+954	소년	A boy	sonyeon	
+955	소식	News, information	sosik	
+956	유월	June	yuwol	
+957	작용	Application	jagyoss	
+958	허리	The waist, the small of the back	heori	
+959	골	Goal	gol	
+960	공업	The industry or  manufacturing industry	gongeop	
+961	그중	Among the rest of them	geujuss	
+962	노인	Old person	noin	
+963	벌다	To earn (money) ; (2) to invite, to bring onto oneself	beolda	
+964	살리다	1) revive, bring around, restore to life  2) save,spare,rescue	sallida	
+965	새	A bird	sae	
+966	영어	The english language	yeongeo	
+967	출신	A native, place one is from	chulsin	
+968	결정	A decision or  determination	gyeoljeoss	
+969	경향	Tendency or  trend	gyeonghyass	
+970	기록	A record or  a document	girok	
+971	나름	Depending on	nareum	
+972	대답하다	To answer, reply	daedaph, pada	
+973	반면	One side	banmyeon	
+974	썰다	Chip, mince,dice	sseolda	
+975	움직임	movement,motion,activity	umjigim	
+976	이미지	Image	imiji	
+977	터지다	Break, be torn, get away from	teojida	
+978	특성	A special/unique characteristic (individuality making, peculiarity)	teukseoss	
+979	교장	Principal	gyojass	
+980	벗다	Take off, remove	beotda	
+981	업무	Buisness, duty	eommu	
+982	입시	An entrance examination	ipsi	
+983	준비하다	To prepare	junbihada	
+984	청소년	Young boys and girls, teenagers	cheongsonyeon	
+985	응	Yes, i see!	euss	
+986	이기다	To win	igida	
+987	찾아보다	To go meet somebody	chajaboda	
+988	취하다	To adopt, assume, take	chwihada	
+989	다루다	Treat, deal with	daruda	
+990	달	The moon	dal	
+991	사장	Company boss	sajass	
+992	삼월	March	samwol	
+993	그렇지만	But or  however	geureojiman	
+994	선배	one’s senior	seonbae	
+995	업체	A business enterprise	eopche	
+996	키	stature,height	ki	
+997	구하다	1) To buy or  purchase or  2) look for or  seek or  want	guhada	
+998	국회	The National Assembly	gukoe	
+999	그러므로	So or  hence or  therefore	geureomeuro	
+1000	포함하다	To include,contain	pohamhada	
